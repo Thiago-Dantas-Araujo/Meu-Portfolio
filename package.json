@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://Thiago-Dantas-Araujo.github.io/Meu-Portifolio",
+  "homepage": "https://Thiago-Dantas-Araujo.github.io/Meu-Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Thiago-Dantas-Araujo.github.io/Meu-Portifolio'",
+    "build-gh": "parcel build --public-url 'https://Thiago-Dantas-Araujo.github.io/Meu-Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
